@@ -1,0 +1,4 @@
+# dsh-message-rail bundle patch: inject the message rail client plugin.
+- insert:
+    - id: dsh-message-rail
+      name: 'dsh-message-rail'
